@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\User\source\repos\Pr_10_2\Pr_10_2\Source.cpp(13,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\Pr_10_2\Pr_10_2\Source.cpp(24,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\Pr_10_2\Pr_10_2\Source.cpp(35,20): warning C4018: '<': signed/unsigned mismatch
+  Pr_10_2.vcxproj -> C:\Users\User\source\repos\Pr_10_2\Debug\Pr_10_2.exe
